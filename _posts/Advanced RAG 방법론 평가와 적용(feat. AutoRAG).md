@@ -1,3 +1,14 @@
+---
+layout: post
+title: ""
+date: 2024-07-23 21:47 +0900
+categories:
+  - LLM
+  - RAG
+tags: 
+math: true
+---
+
 ### RAG (Retrieval-Augmented Generation)
 
 - 외부 지식 기반으로 LLM에 문맥을 제공하여 답변 품질을 높이고 근거 기반을 확보하는 방법
