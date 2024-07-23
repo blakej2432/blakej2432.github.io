@@ -1,0 +1,16 @@
+{
+  "attachmentFolderPath": "assets/img",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "spellcheck": false,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
+}
