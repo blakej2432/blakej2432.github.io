@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md"
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "e50337cb796e61de",
   "lastOpenFiles": [
+    "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
     "CHANGELOG.md",
     "무제 파일.canvas",
     "2024-07-23.md",
     "README.md",
-    "_posts/Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
     "smart-chats/UNTITLED CHAT 2024-07-19 01 46 10.md",
     "assets/img/Pasted image 20240722024817.png",
     "assets/img/Pasted image 20240722020856.png",
