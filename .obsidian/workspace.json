@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b58a9c9c58153b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/LLM agent와 Function Calling (Feat. Langchain).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-24-MLOps 밋업(vessleAI).md",
+                "file": "_posts/LLM agent와 Function Calling (Feat. Langchain).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-24-MLOps 밋업(vessleAI).md",
+                "file": "_posts/LLM agent와 Function Calling (Feat. Langchain).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-24-MLOps 밋업(vessleAI).md"
+                "file": "_posts/LLM agent와 Function Calling (Feat. Langchain).md"
               }
             }
           },
@@ -197,6 +210,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -206,10 +220,11 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "334ade9973d74a50",
+  "active": "b58a9c9c58153b54",
   "lastOpenFiles": [
-    "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
     "_posts/2024-07-24-MLOps 밋업(vessleAI).md",
+    "_posts/LLM agent와 Function Calling (Feat. Langchain).md",
+    "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
     "CHANGELOG.md",
     "무제 파일.canvas",
     "2024-07-23.md",
@@ -245,7 +260,6 @@
     "_posts/2024-07-15-중국어 1회.md",
     "Excalidraw",
     "_drafts/DevDay/DevDay-문서(pdf 등) 내 시각 자료와 텍스트의 추출 및 활용.md",
-    "_drafts/2022-08-05-[Python]02장 파이썬 프로그래밍의 기초, 자료형.md",
     "smart-chats",
     "_drafts/DevDay",
     "remove_control_code.py",
