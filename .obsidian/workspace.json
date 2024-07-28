@@ -37,12 +37,10 @@
             "id": "b58a9c9c58153b54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "_posts/2024-07-25-LLM agent와 Function Calling (Feat. Langchain).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "_config.yml",
+                "staged": true
               }
             }
           }
@@ -113,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-25-LLM agent와 Function Calling (Feat. Langchain).md",
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-25-LLM agent와 Function Calling (Feat. Langchain).md",
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-25-LLM agent와 Function Calling (Feat. Langchain).md"
+                "file": "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md"
               }
             }
           },
@@ -222,8 +220,8 @@
   },
   "active": "b58a9c9c58153b54",
   "lastOpenFiles": [
-    "_posts/2024-07-24-MLOps 밋업(vessleAI).md",
     "_posts/2024-07-25-LLM agent와 Function Calling (Feat. Langchain).md",
+    "_posts/2024-07-24-MLOps 밋업(vessleAI).md",
     "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
     "CHANGELOG.md",
     "무제 파일.canvas",
