@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: LLM agent와 Function Calling (Feat. Langchain)
 date: 2024-07-25 21:56 +0900
 categories:
   - LLM
