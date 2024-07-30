@@ -10,12 +10,12 @@ math: true
 ---
 
 [1단계] Wikidocs 점프 투 장고
-- 게시판 사이트(기본 교재 내용) 만들기 [진행중]
+- 게시판 사이트(기본 교재 내용) 만들기 <span style="color:yellow">[진행중]</span>
 - DRF 직접 적용(추가 변경)
 
 
 [2단계] 인프런 Django REST Framework 핵심 강의
-- 프로젝트 뼈대 갖추기 [진행중]
+- 프로젝트 뼈대 갖추기 <span style="color:yellow">[진행중]</span>
 - 상황에 맞는 DRF 적용법 습득
 
 
