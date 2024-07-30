@@ -29,3 +29,8 @@ math: true
 - Django → 웹 애플리케이션 설계
 - DRF 활용 기능 개발
 - AWS 배포
+
+
+![|100](https://i.imgur.com/TcIutLE.png)
+
+
