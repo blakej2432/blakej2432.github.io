@@ -31,6 +31,6 @@ math: true
 - AWS 배포
 
 
-![|100](https://i.imgur.com/TcIutLE.png)
+![bear.png|100](https://i.imgur.com/TcIutLE.png)
 
 
