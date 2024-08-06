@@ -58,6 +58,7 @@ In-context learning + Fine tuning
 ![](https://i.imgur.com/IWrO8Y6.png)
 <center> 출처 :https://moon-walker.medium.com/chatgpt%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-rlhf-%EC%9D%B8%EA%B0%84-%ED%94%BC%EB%93%9C%EB%B0%B1-%EA%B8%B0%EB%B0%98-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%9D%98-%EC%9B%90%EB%A6%AC-eb456c1b0a4a </center>
 
+
 Instruction Tuning할 때 보상 모델(reward model)로 강화학습 방법론 RLHF(Reinforcement learning with Human Feedback)을 함께 쓰는 경우가 많은데, 이것도 Instruction Tuning의 필수요소인가?
 
 RLHF는 더 좋은 답변을 골라 내주는 역할을 할 뿐, 

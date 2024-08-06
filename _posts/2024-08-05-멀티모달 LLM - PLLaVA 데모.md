@@ -3,7 +3,7 @@ layout: post
 title: 멀티모달 LLM - PLLaVA 데모
 date: 2024-08-05 22:25 +0900
 categories:
-  - LLM
+  - IoT/Vision
   - 멀티모달
 tags: 
 math: true
@@ -23,6 +23,7 @@ math: true
 
 
 > Video-based Generative Performance 벤치마크들에서 SOTA
+> 
 > Zero-shot Video Question Answering 벤치마크들에서 최상위권
 
 ## DEMO
