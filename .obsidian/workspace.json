@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md",
+                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md",
+                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md",
+                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md"
+                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조.md"
               }
             }
           },
@@ -222,10 +222,11 @@
   },
   "active": "b58a9c9c58153b54",
   "lastOpenFiles": [
-    "_posts/2024-07-30-LLM Instruction Tuning과 Dataset.md",
-    "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md",
-    "_posts/2024-08-05-멀티모달 LLM - PLLaVA 데모.md",
     "_posts/2024-08-03-디자인패턴-Abstract Factory.md",
+    "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조.md",
+    "_posts/2024-08-05-멀티모달 LLM - PLLaVA 데모.md",
+    "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md",
+    "_posts/2024-07-30-LLM Instruction Tuning과 Dataset.md",
     "_posts/2024-07-28-Django + DRF 정복 플랜.md",
     "_posts/2024-07-23-Advanced RAG 방법론 평가와 적용(feat. AutoRAG).md",
     "_posts/2024-07-25-LLM agent와 Function Calling (Feat. Langchain).md",
@@ -258,7 +259,6 @@
     "assets/img/Pasted image 20240722174905.png",
     "assets/img/Pasted image 20240722174431.png",
     "assets/img/Pasted image 20240722174411.png",
-    "_posts/2024-07-17-AI시대, 기록을 잘하는 방법.md",
     "Excalidraw",
     "smart-chats",
     "_drafts/DevDay",
