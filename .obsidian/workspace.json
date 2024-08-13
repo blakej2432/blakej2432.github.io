@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조 잡기.md",
+                "file": "_posts/2024-08-13-디자인패턴 생성 Singleton과 예시.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조 잡기.md",
+                "file": "_posts/2024-08-13-디자인패턴 생성 Singleton과 예시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조 잡기.md",
+                "file": "_posts/2024-08-13-디자인패턴 생성 Singleton과 예시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조 잡기.md"
+                "file": "_posts/2024-08-13-디자인패턴 생성 Singleton과 예시.md"
               }
             }
           },
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +222,9 @@
   },
   "active": "b58a9c9c58153b54",
   "lastOpenFiles": [
-    "_posts/2024-08-03-디자인패턴-Abstract Factory.md",
     "_posts/2024-08-07-Django 장고 프로젝트의 기본 구조 잡기.md",
+    "_posts/2024-08-13-디자인패턴 생성 Singleton과 예시.md",
+    "_posts/2024-08-03-디자인패턴-Abstract Factory.md",
     "_posts/2024-08-05-멀티모달 LLM - PLLaVA 데모.md",
     "_posts/2024-08-06-TUYA 라이브러리 활용 데이터 수집.md",
     "_posts/2024-07-30-LLM Instruction Tuning과 Dataset.md",
@@ -252,7 +253,6 @@
     "_drafts/DevDay/ColPali-Efficient Document Retrieval with Vision Language Models.md",
     "_drafts/DevDay/Excalidraw-Multivector Retriever.md",
     "_drafts/DevDay/MultiVector Retriever.md",
-    "_posts/2024-07-19-중국어2회.md",
     "assets/img/Pasted image 20240722175422.png",
     "assets/img/Pasted image 20240722175356.png",
     "assets/img/Pasted image 20240722174954.png",
