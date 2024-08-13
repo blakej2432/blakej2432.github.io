@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: 디자인패턴 생성 Singleton과 예시
 date: 2024-08-13 23:07 +0900
 categories:
   - 디자인패턴
