@@ -8,7 +8,7 @@
     <ul class="nav__items" id="category_tag_menu">
         <!--전체 글 수-->
         <li>
-            📂<span class="nav__main-title">전체 글 </style> <span><b>{{sum}}</b></style> <span>개</style>
+            📂<span class="nav__main-title">전체 </style> <span><b>{{sum}}</b></style> <span>개</style>
         </li>
         <li>
             <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
