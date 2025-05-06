@@ -11,20 +11,20 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+# remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "justice" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Lifes Like Code"
+title                    : "고민, 실행, 고민, 실행"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "JinJungs"
-description              : "배움의 정리, 기록용 블로그입니다."
-url                      : "https://jinjungs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Blake Jeong"
+description              : "개발자 정 블레이크 기술 블로그."
+url                      : "https://blakej2432.github.io" # the base hostname & protocol for your site e.g.  "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jinjungs/jinjungs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/keyboard-lego.jpg"
+repository               : "blakej2432/blakej2432.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/teaser-default.png"
 logo                     : #"/assets/images/keyboard-lego.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -85,61 +85,61 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : "UA-204809513-2"
-    anonymize_ip         : # true, false (default)
+# analytics:
+#   provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+#   google:
+#     tracking_id          : "UA-204809513-2"
+#     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "JinJungs"
-  avatar           : "/assets/images/author_avatar.jpg"
-  bio              : "하루하루는 성실하게,<br/> 인생전체는 되는대로."
+  name             : "Blake Jeong"
+  avatar           : "/assets/images/bear-image.jpg"
+  bio              : "정 블레이크,<br/> 개발하고 성장하기"
   location         : # "Seoul, Korea"
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nehciyz@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "mailto:jmchan2432@gmail.com"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   # url: "https://your-website.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JinJungs"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://www.instagram.com/j_eui03/"
+      url: "https://github.com/blakej2432"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://www.instagram.com/j_eui03/"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url:
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/JinJungs"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/blakej2432"
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
 
 
 # Reading Files
@@ -169,7 +169,7 @@ exclude:
   - package.json
   - package-lock.json
   - Rakefile
-  - README
+  - README`
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
