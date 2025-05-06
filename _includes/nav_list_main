@@ -38,56 +38,6 @@
                 {% endfor %}
             </ul>
 
-            <span class="nav__sub-title">Backend</span>
-            <ul>
-                {% for category in site.categories %}
-                {% if category[0] == "spring" %}
-                <li><a href="/categories/spring" class="">Spring ({{category[1].size}})</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                {% if category[0] == "gradle" %}
-                <li><a href="/categories/gradle" class="">Gradle ({{category[1].size}})</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                {% if category[0] == "git" %}
-                <li><a href="/categories/git" class="">Git ({{category[1].size}})</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-
-            <span class="nav__sub-title">Frontend</span>
-            <ul>
-                <ul>
-                    {% for category in site.categories %}
-                    {% if category[0] == "react" %}
-                    <li><a href="/categories/react" class="">React ({{category[1].size}})</a></li>
-                    {% endif %}
-                    {% endfor %}
-                </ul>
-            </ul>
-
-            <span class="nav__sub-title">Database</span>
-            <ul>
-                {% for category in site.categories %}
-                {% if category[0] == "sql" %}
-                <li><a href="/categories/sql" class="">Sql ({{category[1].size}})</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-            <ul>
-                {% for category in site.categories %}
-                {% if category[0] == "jpa" %}
-                <li><a href="/categories/jpa" class="">Jpa ({{category[1].size}})</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-
             <!-- <span class="nav__sub-title">Environment</span> -->
             <!-- <ul>
                 {% for category in site.categories %}
