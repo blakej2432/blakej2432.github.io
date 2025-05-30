@@ -141,4 +141,3 @@ public ResponseEntity<List<User>> requestParam2( @RequestParam(value = "userId",
 ### 참고한 문서
 - [@RequestBody vs @ModelAttribute](https://tecoble.techcourse.co.kr/post/2021-05-11-requestbody-modelattribute/)
 - [[Spring] @RequestBody, @ModelAttribute, @RequestParam의 차이](https://mangkyu.tistory.com/72)
-
