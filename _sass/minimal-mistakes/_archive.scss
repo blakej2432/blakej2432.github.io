@@ -92,6 +92,9 @@
 
   img {
     width: 100%;
+    min-height: 120px;
+    object-fit: contain;
+    
   }
 }
 
