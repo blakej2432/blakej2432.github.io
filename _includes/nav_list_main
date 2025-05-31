@@ -12,7 +12,7 @@
     {% for main_cat in site.data.categories %}
     <li>
       <span class="nav__sub-title">| {{ main_cat[0] }} |</span>
-      <ul>
+      <ul class="sub-title-text">
         {% for sub_cat in main_cat[1] %}
           {% assign cat_id = sub_cat.id %}
           {% assign cat_label = sub_cat.label %}

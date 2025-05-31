@@ -2427,6 +2427,7 @@ th {
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid #f2f3f3;
+  color: linear-gradient(to right, #002400 0%, #005700 17%, #008a00 33%, #52b152 67%, #83c783 83%, #b4ddb4 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
 .section-divider {
