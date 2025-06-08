@@ -8,20 +8,20 @@ ML/AI:
     label: LLM
   - id: cv
     label: CV
-CS:
-  - id: database
-    label: 데이터베이스
-  - id: os
-    label: 운영체제
-  - id: network
-    label: 네트워크
-  - id: algorithm
-    label: 알고리즘
-Frontend:
-  - id: javascript
-    label: JavaScript
-  - id: react
-    label: React
-Coding:
-  - id: coding
-    label: 코딩테스트
+# CS:
+#   - id: database
+#     label: 데이터베이스
+#   - id: os
+#     label: 운영체제
+#   - id: network
+#     label: 네트워크
+#   - id: algorithm
+#     label: 알고리즘
+# Frontend:
+#   - id: javascript
+#     label: JavaScript
+#   - id: react
+#     label: React
+# Coding:
+#   - id: coding
+#     label: 코딩테스트
