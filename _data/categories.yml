@@ -8,6 +8,9 @@ ML/AI:
     label: LLM
   - id: cv
     label: CV
+Language:
+  - id: python
+    label: Python
 # CS:
 #   - id: database
 #     label: 데이터베이스
