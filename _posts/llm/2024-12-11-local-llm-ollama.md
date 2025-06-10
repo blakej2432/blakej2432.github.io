@@ -63,7 +63,7 @@ ollama create llama3-instruct-70b -f Modelfile
 ollama list
 ```
 
-출력되는 결과에 내가 만든 모델이 뜨는지 확인해 주세요.
+내가 만든 모델이 나오는지 확인
 
 ## STEP 5. Ollama 실행
 

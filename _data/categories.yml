@@ -8,6 +8,8 @@ ML/AI:
     label: LLM
   - id: cv
     label: CV
+  - id: iot
+    label: IoT
 Language:
   - id: python
     label: Python
