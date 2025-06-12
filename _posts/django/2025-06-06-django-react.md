@@ -1,5 +1,5 @@
 ---
-title: "[Django] Django + React 풀스택 프로젝트 세팅하기"
+title: "[Django] Django + React 풀스택 프로젝트 "
 date: 2025-06-06 18:24:28 +0900
 categories: django
 tags: django react
