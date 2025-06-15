@@ -21,16 +21,21 @@ Django 와 Django template 으로 html 초기 로딩을 빠르게 하면서,<br>
 
 ```text
 myproject/
-├── backend/
-│   ├── myapp/
-│   │   └── templates/
-│   │       └── myapp/
-│   │           └── race.html       ← Django 템플릿
-│   ├── static/
-│   │   └── js/
-│   │       └── race.bundle.js      ← React 빌드된 번들 (race.jsx → Webpack/Vite로)
-│   └── views.py
-├── frontend/
+├── /
+├── config/                      # Django 프로젝트 설정 폴더
+│   ├── settings.py             # 전체 프로젝트 설정
+│   ├── urls.py                 
+│   ├── wsgi.py
+├── repo/                       # Django 앱들 (실제 서비스 로직)
+│   ├── race/               # 사용자 인증/프로필 관련
+|   |   └── static/
+│   |       └── js/
+│   |            └── race.bundle.js   # ← React 빌드된 번들 (race.jsx → Webpack/Vite로)
+│   ├── profiles/                   
+│   └── shoes/   
+├── static/
+│   └── js/ 
+├── react_app/
 │   ├── src/
 │   │   ├── components/
 │   │   │   └── RaceList.tsx        ← React 컴포넌트
@@ -95,12 +100,12 @@ export default defineConfig({
 
 ### 장고 템플릿에서 사용하기
 
-이렇게 하면, backend의 장고 static 폴더에 bundle.js가 들어오게 되고,<br>
+이렇게 하면, 장고 static 폴더에 bundle.js가 들어오게 되고,<br>
 다음과 같이 template에 포함시킬 수 있다.
 
 {% raw %}
 ```html
-<!-- backend/myapp/templates/myapp/race.html -->
+<!-- repo/race/templates/race/race.html -->
 {% load static %}
 <html>
   <head>
